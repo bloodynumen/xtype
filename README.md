@@ -22,3 +22,36 @@ extension=xtype.so
 $ext = xtype('/tmp/1.jpg')
 echo $ext;
 ```
+
+## 可识别的文件类型
+```
+bmp
+jpg
+png
+mpg
+mpg
+pst
+rm
+ram
+psd
+dwg
+avi
+gif
+tif
+mid
+zip
+rar
+wav
+mov
+qdf
+xls.or.doc
+pwl
+wpd
+xml
+html
+rtf
+pdf
+asf
+dbx
+mdb
+```
