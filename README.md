@@ -7,6 +7,7 @@
 ### 编译
 ```
 git clone https://github.com/bloodynumen/xtype.git
+cd xtype
 phpize
 /configue --with-php-config=your_php_config_path
 make && make install
